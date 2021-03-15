@@ -12,7 +12,7 @@ namespace Consumo
             Segundo s = new Segundo();
             s.Second();
             Terceiro t = new Terceiro();
-            t.Third(); 
+            t.Third();
             
         }
     }
