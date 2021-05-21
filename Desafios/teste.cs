@@ -1,3 +1,4 @@
+// algoritimo que, dado uma entrada de inteiros para cada constante, calcula o somatório delas.
 using System;
 
 namespace Consumo.Desafios
