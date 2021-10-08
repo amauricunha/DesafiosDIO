@@ -15,8 +15,17 @@ namespace Consumo
             //t.Third();
             //teste  tt = new teste();
             //tt.tetss();
-            teste2 t2 = new teste2();
-            t2.Tartaruga();
+            //teste2 t2 = new teste2();
+            //t2.Tartaruga();
+
+            //ValidacaoNotas VN = new ValidacaoNotas();
+            //VN.ValidaNota();
+
+            // ComparacaoString CS = new ComparacaoString();
+            // CS.Compara();
+            
+            desafioCap3 dc = new desafioCap3();
+            dc.dasafiocap3();
         
             
         }
