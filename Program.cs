@@ -24,10 +24,15 @@ namespace Consumo
             // ComparacaoString CS = new ComparacaoString();
             // CS.Compara();
             
-            desafioCap3 dc = new desafioCap3();
-            dc.dasafiocap3();
+            //desafioCap3 dc = new desafioCap3();
+            //dc.dasafiocap3();
+
+            //Desafio41 da41 = new Desafio41();
+            //da41.desafioAva41(7,3);
+
+            Desafio42 da42 = new Desafio42();
+            da42.desafioAva42();
         
-            
         }
     }
 }
