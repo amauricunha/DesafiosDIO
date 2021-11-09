@@ -30,8 +30,17 @@ namespace Consumo
             //Desafio41 da41 = new Desafio41();
             //da41.desafioAva41(7,3);
 
-            Desafio42 da42 = new Desafio42();
-            da42.desafioAva42();
+            // Desafio42 da42 = new Desafio42();
+            // da42.desafioAva42();
+
+            // DesafioBlip13 dab13 = new DesafioBlip13();
+            // dab13.desafioBlip13();
+
+            // DesafioBlip23 dab13 = new DesafioBlip23();
+            // dab13.desafioBlip23();
+            
+            DesafioBlip33 dab33 = new DesafioBlip33();
+            dab33.desafioBlip33();
         
         }
     }
